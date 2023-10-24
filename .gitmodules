@@ -1,0 +1,12 @@
+[submodule "BrokenHeads"]
+	path = BrokenHeads
+	url = https://github.com/silverXnoise/BrokenHeads
+[submodule "include/lv2"]
+	path = include/lv2
+	url = https://gitlab.com/lv2/lv2
+[submodule "include/vst2sdk"]
+	path = include/vst2sdk
+	url = https://github.com/Xaymar/vst2sdk
+[submodule "include/JUCE"]
+	path = include/JUCE
+	url = https://github.com/juce-framework/JUCE
