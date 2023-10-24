@@ -10,3 +10,6 @@
 [submodule "include/JUCE"]
 	path = include/JUCE
 	url = https://github.com/juce-framework/JUCE
+[submodule "DISTRHO-Ports.git"]
+	path = DISTRHO-Ports
+	url = https://github.com/silverXnoise/DISTRHO-Ports.git
